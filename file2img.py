@@ -1,5 +1,5 @@
 
-#Yassine SABIR
+#Yassine SABIR Convert text to image
 
 import cv2
 import numpy as np
