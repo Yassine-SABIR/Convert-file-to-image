@@ -1,5 +1,5 @@
 
-#Yassine SABIR Convert text to image
+#Yassine SABIR TextFile2Img | Convert text files to image
 
 import cv2
 import numpy as np
