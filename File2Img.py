@@ -1,5 +1,5 @@
 
-#Yassine SABIR
+#Yassine SABIR  File2Img | Turn any type of files into image 
 
 import cv2
 import numpy as np
